@@ -13,8 +13,8 @@
   <a href="https://www.reddit.com/user/tier940">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/tier940?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/tier940">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  <a href="https://stackoverflow.com/users/17317833/tier940">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/17317833?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="https://zenn.dev/tier940">
     <img height="20" src="https://zenn.badge.nikaera.com/s/tier940/likes" />
