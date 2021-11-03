@@ -49,9 +49,6 @@
   <a href="https://stackoverflow.com/users/tier940" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tier940" height="30" width="30" />
   </a>
-  <a href="https://www.quora.com/profile/tier940" target="blank">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/732/732105.svg" alt="tier940" height="30" width="30" />
-  </a>
 </p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/tier940) -->
