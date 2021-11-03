@@ -65,8 +65,12 @@
 [![](https://raw.githubusercontent.com/tier940/tier940/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 #### Analysis
-
 <!-- <img height="150" src="https://github.com/tier940/tier940/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
+<details>
+  <summary>Other Statics</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 [![Metrics](https://github.com/tier940/tier940/actions/workflows/main.yml/badge.svg)](https://github.com/tier940/tier940/actions/workflows/main.yml)
