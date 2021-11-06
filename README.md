@@ -31,10 +31,10 @@
   <a href="http://qiita.com/tier940">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tier940/contributions.svg" />
   </a>
+  <a href="https://github.com/tier940/tier940/actions/workflows/main.yml">
+    <img height="20" src="https://github.com/tier940/tier940/actions/workflows/main.yml/badge.svg" />
+  </a>
 </p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/tier940) -->
-![](https://github.com/tier940/tier940/blob/main/profile-3d-contrib/profile-season-animate.svg)
 ![Metrics](https://github.com/tier940/tier940/blob/main/github-metrics.svg)
-
-[![Metrics](https://github.com/tier940/tier940/actions/workflows/main.yml/badge.svg)](https://github.com/tier940/tier940/actions/workflows/main.yml)
