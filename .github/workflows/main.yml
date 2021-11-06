@@ -14,15 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Generate token
-        id: generate_token
-        uses: tibdex/github-app-token@v1
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ steps.generate_token.outputs.token }}
+          token: ${{ secrets.GH_TOKEN }}                            # GitHub Personal Token
           plugin_introduction: yes
           plugin_introduction_title: yes                            # Hide section title
           plugin_isocalendar: yes
