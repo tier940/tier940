@@ -55,5 +55,31 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 132 Contributions in the Year 2021
+ > 
+> 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in PHP** 
+
+```text
+PHP                      1 repo              █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/tier940/tier940/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/11/2021
+<!--END_SECTION:waka-->
 </details>
