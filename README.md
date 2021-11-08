@@ -57,9 +57,9 @@
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 136 Contributions in the Year 2021
+> 🏆 181 Contributions in the Year 2021
  > 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +70,8 @@
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      1 repo              █████████████████████████   100.0%
+PHP                      1 repo              ████████████░░░░░░░░░░░░░   50.0% 
+Dockerfile               1 repo              ████████████░░░░░░░░░░░░░   50.0%
 
 ```
 
@@ -80,6 +81,6 @@ PHP                      1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/tier940/tier940/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
 </details>
