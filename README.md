@@ -31,9 +31,15 @@
   <a href="http://qiita.com/tier940">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tier940/contributions.svg" />
   </a>
-   <img height="20" src="https://github.com/tier940/tier940/actions/workflows/main.yml/badge.svg" />
-  <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/tier940">
-  <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/tier940">
+  <a href="https://github.com/tier940/tier940/">
+    <img height="20" src="https://github.com/tier940/tier940/actions/workflows/main.yml/badge.svg" />
+  </a>
+  <a href="https://keybase.io/tier940">
+    <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/tier940">
+  </a>
+  <a href="https://keybase.io/tier940">
+    <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/tier940">
+  </a>
 </p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/tier940) -->
