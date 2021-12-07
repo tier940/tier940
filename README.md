@@ -65,7 +65,7 @@
 
 > 🏆 401 Contributions in the Year 2021
  > 
-> 📦 7.8 kB Used in GitHub's Storage 
+> 📦 7.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,13 +102,13 @@ Sunday       38 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    52 hrs 29 mins      █████████████████████████   100.0%
+Other                    44 hrs 53 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  52 hrs 29 mins      █████████████████████████   100.0%
+Browser                  44 hrs 53 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  52 hrs 29 mins      █████████████████████████   100.0%
+Windows                  44 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,6 +128,6 @@ Lua                      1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tier940/tier940/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 </details>
