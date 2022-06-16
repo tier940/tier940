@@ -13,7 +13,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -30,11 +30,8 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
-          plugin_wakatime_limit: 4
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_days: 180
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
