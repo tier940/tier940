@@ -13,7 +13,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -25,7 +25,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime: yes
