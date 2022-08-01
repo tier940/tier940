@@ -25,7 +25,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
-      - uses: lowlighter/metrics@v3
+      - uses: lowlighter/metrics@v3.26
         with:
           token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime: yes
