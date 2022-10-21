@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
