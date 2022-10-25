@@ -42,15 +42,10 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tier940&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tier940&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+[![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tier940&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/tier940/tier940/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tier940/tier940/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tier940/tier940/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 #### Analysis
 <!-- <img height="150" src="https://github.com/tier940/tier940/blob/master/images/stat.svg" alt="Alternative Text"/> -->
