@@ -53,6 +53,8 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C189%20hrs%2053%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 32.8 kB Used in GitHub's Storage 
@@ -125,6 +127,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 00:16:23 UTC
+ Last Updated on 25/07/2024 00:39:23 UTC
 <!--END_SECTION:waka-->
 </details>
