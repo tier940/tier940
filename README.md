@@ -53,7 +53,7 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C632%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C632%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -127,6 +127,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 01:00:36 UTC
+ Last Updated on 21/10/2024 01:33:49 UTC
 <!--END_SECTION:waka-->
 </details>
