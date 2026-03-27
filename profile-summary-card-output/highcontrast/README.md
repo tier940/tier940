@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    

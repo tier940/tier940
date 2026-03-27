@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tier940/tier940/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
