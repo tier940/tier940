@@ -53,9 +53,11 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%2C006%20hrs%2043%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 81.5 kB Used in GitHub's Storage 
+> 📦 81.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,6 +65,50 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                707 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                1790 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌃 Evening                3426 commits        █████████████░░░░░░░░░░░░   51.27 % 
+🌙 Night                  759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Wednesday                897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Thursday                 745 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Friday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 1346 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Sunday                   1143 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 40 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.02 % 
+Other                    29 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Java                     9 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+🔥 Editors: 
+Claude Code              40 hrs 59 mins      ████████████░░░░░░░░░░░░░   46.64 % 
+Chrome                   29 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   33.79 % 
+VS Code                  14 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+IntelliJ IDEA            2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+
+💻 Operating System: 
+Linux                    78 hrs 29 mins      ██████████████████████░░░   89.31 % 
+Windows                  9 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -80,6 +126,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:32:16 UTC
+ Last Updated on 26/07/2026 01:45:00 UTC
 <!--END_SECTION:waka-->
 </details>
