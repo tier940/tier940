@@ -53,13 +53,13 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C580%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C583%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-496%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-498%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 83.8 kB Used in GitHub's Storage 
+> 📦 83.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,45 +94,45 @@ Sunday                   970 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    66 hrs 9 mins       ██████████████░░░░░░░░░░░   54.78 % 
-Markdown                 26 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Rust                     13 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML                     4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-JSON                     2 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Other                    72 hrs 27 mins      ███████████████░░░░░░░░░░   60.70 % 
+Markdown                 21 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Rust                     11 hrs 29 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     4 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Chrome                   66 hrs 49 mins      ██████████████░░░░░░░░░░░   55.33 % 
-Claude Code              45 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.41 % 
-VS Code                  8 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Chrome                   72 hrs 44 mins      ███████████████░░░░░░░░░░   60.93 % 
+Claude Code              41 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.66 % 
+VS Code                  5 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Linux                    82 hrs 42 mins      █████████████████░░░░░░░░   68.48 % 
-Windows                  38 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Linux                    79 hrs 19 mins      █████████████████░░░░░░░░   66.46 % 
+Windows                  40 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 41 mins (44.45%)
+⏱ AI Coding Time: 46 hrs 20 mins (38.82%)
 
-✍️ 20,099 lines written by AI, 84 lines written by hand (99.58% AI-written)
+✍️ 19,620 lines written by AI, 84 lines written by hand (99.57% AI-written)
 
-🔤 79,126,976 Input Tokens, 3,731,153 Output Tokens
+🔤 70,043,419 Input Tokens, 3,897,722 Output Tokens
 
-💵 $1784.80 Estimated AI Cost This Week
+💵 $1768.47 Estimated AI Cost This Week
 
-🧠 231 AI Sessions, 547 AI Prompts
+🧠 202 AI Sessions, 487 AI Prompts
 
-Opus                     27,874 lines        ████████████████████████░   94.63 % 
-Sonnet                   1,583 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Opus                     27,442 lines        ███████████████████████░░   93.96 % 
+Sonnet                   1,764 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📚 Verbose Prompter — average 3,058 characters per prompt
+🤖 AI-Driven — 99.57% of written lines came from AI
+📚 Verbose Prompter — average 3,102 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.6% of changed lines were hand-edited
+🚀 High AI Trust — 6.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -152,6 +152,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 00:42:33 UTC
+ Last Updated on 15/08/2026 02:08:11 UTC
 <!--END_SECTION:waka-->
 </details>
