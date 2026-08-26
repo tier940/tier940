@@ -53,13 +53,13 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C783%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C788%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-678%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-682%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 85.6 kB Used in GitHub's Storage 
+> 📦 85.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,45 +94,45 @@ Sunday                   1393 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 31 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Rust                     28 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Other                    21 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-YAML                     3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-TOML                     3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Rust                     29 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Markdown                 28 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Other                    23 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+YAML                     4 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+TOML                     3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Claude Code              66 hrs 11 mins      █████████████████░░░░░░░░   66.09 % 
-Chrome                   29 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-VS Code                  4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Claude Code              66 hrs 12 mins      █████████████████░░░░░░░░   67.69 % 
+Chrome                   28 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+VS Code                  2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Linux                    88 hrs 16 mins      ██████████████████████░░░   88.15 % 
-Windows                  11 hrs 52 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Linux                    83 hrs 6 mins       █████████████████████░░░░   84.96 % 
+Windows                  14 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 68 hrs 39 mins (68.55%)
+⏱ AI Coding Time: 68 hrs 35 mins (70.13%)
 
-✍️ 34,938 lines written by AI, 1,194 lines written by hand (96.7% AI-written)
+✍️ 34,952 lines written by AI, 885 lines written by hand (97.53% AI-written)
 
-🔤 147,929,906 Input Tokens, 5,515,003 Output Tokens
+🔤 82,177,171 Input Tokens, 5,608,437 Output Tokens
 
-💵 $1617.00 Estimated AI Cost This Week
+💵 $1485.33 Estimated AI Cost This Week
 
-🧠 130 AI Sessions, 427 AI Prompts
+🧠 111 AI Sessions, 442 AI Prompts
 
-Sonnet                   36,403 lines        ████████████████████████░   96.24 % 
-Opus                     1,424 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Sonnet                   37,474 lines        █████████████████████████   98.25 % 
+Opus                     669 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.7% of written lines came from AI
-📚 Verbose Prompter — average 3,828 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.64% of changed lines were hand-edited
+🤖 AI-Driven — 97.53% of written lines came from AI
+📚 Verbose Prompter — average 3,788 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -152,6 +152,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:40:01 UTC
+ Last Updated on 26/08/2026 02:15:22 UTC
 <!--END_SECTION:waka-->
 </details>
