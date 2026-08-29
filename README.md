@@ -53,9 +53,9 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C804%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-698%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-708%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,21 +70,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1327 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌆 Daytime                3804 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌃 Evening                4654 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
-🌙 Night                  1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+🌞 Morning                1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                3805 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌃 Evening                4662 commits        ██████████░░░░░░░░░░░░░░░   41.00 % 
+🌙 Night                  1575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1677 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Tuesday                  1621 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Thursday                 1986 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 1842 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Sunday                   1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   1677 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  1621 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Wednesday                1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Thursday                 1986 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Friday                   1292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Saturday                 1852 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 ```
 
 
@@ -94,45 +94,45 @@ Sunday                   1657 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 41 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   36.71 % 
-Rust                     30 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Other                    22 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-YAML                     4 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-TOML                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 38 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Rust                     30 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Other                    26 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+YAML                     8 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TOML                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Claude Code              81 hrs 28 mins      ██████████████████░░░░░░░   72.31 % 
-Chrome                   28 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-VS Code                  2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Claude Code              83 hrs 32 mins      ██████████████████░░░░░░░   71.48 % 
+Chrome                   30 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+VS Code                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Linux                    99 hrs 1 min        ██████████████████████░░░   87.88 % 
-Windows                  13 hrs 39 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Linux                    108 hrs 11 mins     ███████████████████████░░   92.57 % 
+Windows                  8 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 83 hrs 51 mins (74.42%)
+⏱ AI Coding Time: 85 hrs 52 mins (73.47%)
 
-✍️ 36,161 lines written by AI, 885 lines written by hand (97.61% AI-written)
+✍️ 34,027 lines written by AI, 889 lines written by hand (97.45% AI-written)
 
-🔤 96,650,490 Input Tokens, 5,964,549 Output Tokens
+🔤 118,206,342 Input Tokens, 5,834,417 Output Tokens
 
-💵 $1695.71 Estimated AI Cost This Week
+💵 $1993.76 Estimated AI Cost This Week
 
-🧠 124 AI Sessions, 579 AI Prompts
+🧠 122 AI Sessions, 695 AI Prompts
 
-Sonnet                   39,017 lines        █████████████████████████   98.14 % 
-Opus                     740 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Sonnet                   35,652 lines        ████████████████████████░   95.73 % 
+Opus                     1,590 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.61% of written lines came from AI
-📚 Verbose Prompter — average 4,006 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.41% of changed lines were hand-edited
+🤖 AI-Driven — 97.45% of written lines came from AI
+📚 Verbose Prompter — average 3,880 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -152,6 +152,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 07:32:50 UTC
+ Last Updated on 29/08/2026 04:42:27 UTC
 <!--END_SECTION:waka-->
 </details>
