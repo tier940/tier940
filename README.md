@@ -53,13 +53,13 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C079%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C090%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-915%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-919%20hrs%2022%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 87.7 kB Used in GitHub's Storage 
+> 📦 87.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,48 +94,48 @@ Sunday                   1230 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    46 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.04 % 
-Java                     17 hrs 56 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Markdown                 14 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Rust                     10 hrs 25 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Git Config               3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    47 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.35 % 
+Java                     22 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Markdown                 15 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Rust                     9 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Java Properties          1 hr 52 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Chrome                   61 hrs 25 mins      ███████████████░░░░░░░░░░   60.59 % 
-Codex CLI                20 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-IntelliJ IDEA            11 hrs 22 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Claude Code              7 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Chrome                   61 hrs 40 mins      ███████████████░░░░░░░░░░   60.23 % 
+Codex CLI                22 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+IntelliJ IDEA            13 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Claude Code              3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Linux                    85 hrs 1 min        █████████████████████░░░░   83.86 % 
-Windows                  16 hrs 21 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Linux                    86 hrs 12 mins      █████████████████████░░░░   84.18 % 
+Windows                  16 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 50 mins (33.39%)
+⏱ AI Coding Time: 32 hrs 1 min (31.27%)
 
-✍️ 4,361 lines written by AI, 7,660 lines written by hand (36.28% AI-written)
+✍️ 2,227 lines written by AI, 8,102 lines written by hand (21.56% AI-written)
 
-🔤 86,076,836 Input Tokens, 5,912,033 Output Tokens
+🔤 96,438,992 Input Tokens, 6,489,514 Output Tokens
 
-💵 $392.66 Estimated AI Cost This Week
+💵 $433.82 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 698 AI Prompts
+🧠 97 AI Sessions, 658 AI Prompts
 
-Qwen                     3,421 lines         █████████████████░░░░░░░░   67.10 % 
-GPT                      1,299 lines         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Sonnet                   360 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Codex-Cli                18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     1,709 lines         ████████████████░░░░░░░░░   64.66 % 
+GPT                      809 lines           ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Opus                     93 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Codex-Cli                18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Sonnet                   14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.28% of written lines came from AI
-📚 Verbose Prompter — average 20,913 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 71.98% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.56% of written lines came from AI
+📚 Verbose Prompter — average 22,207 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 84.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -155,6 +155,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:19:18 UTC
+ Last Updated on 24/09/2026 02:07:31 UTC
 <!--END_SECTION:waka-->
 </details>
