@@ -53,9 +53,9 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C130%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C145%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-959%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-970%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,21 +70,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-🌆 Daytime                5765 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌃 Evening                6232 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  3001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+🌞 Morning                2156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌆 Daytime                5175 commits        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+🌃 Evening                5761 commits        █████████░░░░░░░░░░░░░░░░   36.80 % 
+🌙 Night                  2563 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Tuesday                  2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                2033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Thursday                 2871 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Friday                   2198 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Saturday                 2822 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Sunday                   2654 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Monday                   2232 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Tuesday                  2018 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                1808 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Thursday                 2522 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Friday                   1993 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 2614 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Sunday                   2468 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 ```
 
 
@@ -94,46 +94,46 @@ Sunday                   2654 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    70 hrs 41 mins      █████████████████░░░░░░░░   69.12 % 
-Gradle                   10 hrs 6 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Markdown                 9 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-JSON                     9 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Rust                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    61 hrs              ██████████████░░░░░░░░░░░   57.88 % 
+Markdown                 14 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Rust                     10 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JSON                     9 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Gradle                   8 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-Chrome                   53 hrs 55 mins      █████████████░░░░░░░░░░░░   52.73 % 
-Opencode Cli             41 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.12 % 
-VS Code                  4 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Claude Code              2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Opencode Cli             51 hrs              ████████████░░░░░░░░░░░░░   48.39 % 
+Chrome                   45 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.28 % 
+VS Code                  5 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Claude Code              2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    65 hrs 31 mins      ████████████████░░░░░░░░░   64.07 % 
-Windows                  36 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.93 % 
+Linux                    77 hrs 18 mins      ██████████████████░░░░░░░   73.35 % 
+Windows                  28 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 9 mins (46.12%)
+⏱ AI Coding Time: 58 hrs 17 mins (55.3%)
 
-✍️ 1,133 lines written by AI, 1 lines written by hand (99.91% AI-written)
+✍️ 2,109 lines written by AI, 388 lines written by hand (84.46% AI-written)
 
-🔤 76,593,115 Input Tokens, 2,337,778 Output Tokens
+🔤 90,367,135 Input Tokens, 2,997,172 Output Tokens
 
-💵 $168.02 Estimated AI Cost This Week
+💵 $324.24 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 439 AI Prompts
+🧠 68 AI Sessions, 507 AI Prompts
 
-Sonnet                   714 lines           ████████████████░░░░░░░░░   62.30 % 
-Qwen                     432 lines           █████████░░░░░░░░░░░░░░░░   37.70 % 
+Sonnet                   1,674 lines         ███████████████████░░░░░░   76.86 % 
+Qwen                     504 lines           ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 826 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.32% of changed lines were hand-edited
+🤖 AI-Driven — 84.46% of written lines came from AI
+📄 Detailed Prompter — average 738 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 26.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -153,6 +153,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tier940/tier940/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 03:31:20 UTC
+ Last Updated on 05/10/2026 03:05:39 UTC
 <!--END_SECTION:waka-->
 </details>
